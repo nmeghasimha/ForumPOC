@@ -1,0 +1,39 @@
+Resources:
+
+1. HTML/CSS
+2. reactJs
+3. Java --> API
+4. SQL
+
+
+UI:
+front page --> megha
+
+API calls --> keerthi
+
+DB's
+
+
+
+
+UI:
+
+forum outlet
+Posts list
+newPost Button
+Search bar
+New Post page
+Post --> Like/comment
+
+
+API calls:
+
+1. Return all the posts
+2. Save the post
+3. SAve the likes
+4. Save the comments
+
+
+DB:
+Store the users
+store the posts
